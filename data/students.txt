@@ -1,0 +1,5 @@
+1,Sumit Kumar Sahu,20,BCA,sumitsahu3367@gmail.com
+2,Jaydeep Das,20,BCA,jaydeepdas@gmail.com
+3,Tushar Subudhi,21,BCA,tushar123@gmail.com
+4,Srimanta Nayak,22,BCA,srimanata123@gmail.com
+5,Chutiya,21,Area Work,mamumain@gmail.com
